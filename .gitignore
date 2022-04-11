@@ -293,5 +293,5 @@ __pycache__
 config/
 docs/
 demo.py
-scripts/
+scripts_old/
 launch.json
