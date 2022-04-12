@@ -1,8 +1,5 @@
-![](https://img.shields.io/badge/version-1.0.0-blue)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Fangyin1994/KCL/blob/main/LICENSE)
-[![arxiv badge](https://img.shields.io/badge/arxiv-2112.00544-orange)](https://arxiv.org/abs/2112.00544)
 
-[**中文**](https://github.com/ZJU-Fangyin/KCL/blob/main/README_CN.md) | [**English**](https://github.com/ZJU-Fangyin/KCL)     
+[**中文**](https://github.com/YushanZhu/DistilE/blob/main/README_CN.md) | [**English**](https://github.com/YushanZhu/DistilE)     
 
 <p align="center">
     <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
@@ -10,8 +7,7 @@
 
 # DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning
 
-This repository is the official implementation of paper: **[DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning](https://dl.acm.org/doi/pdf/10.1145/3488560.3498437)**, accepted by **WSDM 2022** main conference. 
-
+This repository is the official implementation of paper: **[DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning](https://dl.acm.org/doi/pdf/10.1145/3488560.3498437)**, accepted by **WSDM 2022** main conference. The project is based on open source framework [NeuralKG](https://github.com/zjukg/NeuralKG), NeuralKG is a python-based library for diverse representation learning of knowledge graphs implementing.
 
 # Contributor
 Yushan Zhu, Wen Zhang, Mingyang Chen, Hui Chen, Xu Cheng, Wei Zhang, Huajun Chen
