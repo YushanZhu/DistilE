@@ -108,7 +108,3 @@ sh scripts/WordNet/ComplEx_WN_distil_stage2.sh
 }
 ```
 
-## 贡献
-
->📋  选择一个许可证并描述如何为您的代码存储库做出贡献。
-
