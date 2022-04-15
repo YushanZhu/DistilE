@@ -69,6 +69,9 @@ Our method achieves the following performance:
 
 The table above shows the results of an instance of the DualDE application, where the KGE method is ComplEx, Teacher model's dimension is 500, and Student model's dimension is 64. And the scripts and results for DualDE applied to other KGE methods (TransE, SimplE, RotatE, etc.) will be released soon.
 
+# References
+Parts of our codes based on and thanks for:
+- [NeuralKG](https://github.com/zjukg/NeuralKG)
 
 
 # Papers for the Project & How to Cite
