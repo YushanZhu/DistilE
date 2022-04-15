@@ -71,7 +71,7 @@ The table above shows the results of an instance of the DualDE application, wher
 
 # References
 Parts of our codes based on and thanks for:
-- [NeuralKG](https://github.com/zjukg/NeuralKG)
+- [zjukg/NeuralKG](https://github.com/zjukg/NeuralKG)
 
 
 # Papers for the Project & How to Cite
