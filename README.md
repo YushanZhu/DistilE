@@ -1,7 +1,7 @@
 
 # DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning
 
-This repository is the official implementation of paper: **[DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning](https://dl.acm.org/doi/pdf/10.1145/3488560.3498437)**, accepted by **WSDM 2022** main conference. Slightly different from the original paper, this project is based on a new open source framework [NeuralKG](https://github.com/zjukg/NeuralKG), NeuralKG is a python-based library for diverse representation learning of knowledge graphs implementing.
+This repository is the official implementation of paper: **[DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning](https://dl.acm.org/doi/pdf/10.1145/3488560.3498437)**, accepted by **WSDM 2022** main conference. Slightly different from the original paper, this project is based on a new open source framework [NeuralKG](https://github.com/zjukg/NeuralKG), a python-based library for diverse representation learning of knowledge graphs implementing.
 
 
 # Brief Introduction
